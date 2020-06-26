@@ -23,5 +23,5 @@ $$\frac{\partial C}{\partial \omega_i} = \frac{\partial C}{\partial \hat{y}} * \
 
 $\frac{\partial C}{\partial \hat{y}} = \frac{2}{n}\sum_{i=1}^{n} (y_i - \hat{y_i})$
 
-$\frac{\partial \hat{y}}{\partial z} = \frac{\partial}{\partial z}\sigma(z) = \frac{\exp(-z)}{(1 + exp(-z))^2} = \frac{1}{1 + exp(-z)} * \frac{\exp(-z)}{1 + exp(-z)}$
+$\frac{\partial \hat{y}}{\partial z} = \frac{\partial}{\partial z}\sigma(z) = \frac{\exp(-z)}{(1 + exp(-z))^2} = \frac{1}{1 + exp(-z)} * \frac{\exp(-z)}{1 + exp(-z)} = \frac{1}{1 + exp(-z)} * (1 - \frac{1}{1 + exp(-z)})$
 
