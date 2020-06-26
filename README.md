@@ -38,4 +38,4 @@ finally :
 <p align="center"><img src="/tex/69204fd48bc446121a9f256760ee8c59.svg?invert_in_darkmode&sanitize=true" align=middle width=324.2849511pt height=36.2778141pt/></p>
 <p align="center"><img src="/tex/72daf9f5a6de72c6e93734bed17d48ba.svg?invert_in_darkmode&sanitize=true" align=middle width=291.93382845pt height=33.81208709999999pt/></p> 
 
-### Updating the weights with a learning rate <img src="/tex/1d0496971a2775f4887d1df25cea4f7e.svg?invert_in_darkmode&sanitize=true" align=middle width=8.751954749999989pt height=14.15524440000002pt/>
+### Updating the weights with a learning rate <img src="/tex/9808ad263bb5f76df44cdac1fa64ec22.svg?invert_in_darkmode&sanitize=true" align=middle width=8.751954749999989pt height=14.15524440000002pt/>
