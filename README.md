@@ -24,6 +24,13 @@ chain rule
 <img src="/tex/62ff6c396880f3cef1deff3e59d7cd9b.svg?invert_in_darkmode&sanitize=true" align=middle width=156.07275585pt height=28.92634470000001pt/>
 
 <img src="/tex/a7d203411fd149b4d767d7184e2f1bc1.svg?invert_in_darkmode&sanitize=true" align=middle width=367.407678pt height=33.20539859999999pt/>
-<img src="/tex/8629d42cbb58b825550407d387069ca3.svg?invert_in_darkmode&sanitize=true" align=middle width=351.4970019pt height=27.77565449999998pt/>
 
- <img src="/tex/5e6ee175f78b83a39ac923f1c4a8c3d9.svg?invert_in_darkmode&sanitize=true" align=middle width=236.00524860000002pt height=28.92634470000001pt/>
+so :
+
+<img src="/tex/a2f9473a2840ced0f17683f5447e204b.svg?invert_in_darkmode&sanitize=true" align=middle width=372.84301065pt height=30.648287999999997pt/>
+
+<img src="/tex/5e6ee175f78b83a39ac923f1c4a8c3d9.svg?invert_in_darkmode&sanitize=true" align=middle width=236.00524860000002pt height=28.92634470000001pt/>
+
+finally :
+
+<p align="center"><img src="/tex/69204fd48bc446121a9f256760ee8c59.svg?invert_in_darkmode&sanitize=true" align=middle width=324.2849511pt height=36.2778141pt/></p>
