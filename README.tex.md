@@ -15,7 +15,7 @@ $\hat{y} = \sigma(z) = \frac{1}{1 + \exp(-z)}$
 
 example with a regression problem 
 
-$$C = MSE = \frac{1}{n}\sum_{i=1}^{n} (y_i - \hat{y_i})^2$$
+$$\boxed{C = MSE = \frac{1}{n}\sum_{i=1}^{n} (y_i - \hat{y_i})^2}$$
 
 chain rule
 
