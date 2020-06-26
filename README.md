@@ -21,7 +21,7 @@ chain rule
 
 <p align="center"><img src="/tex/48fc614a4e54ff853ca03be84c45c413.svg?invert_in_darkmode&sanitize=true" align=middle width=156.34841145pt height=37.0084374pt/></p>
 
-<img src="/tex/62ff6c396880f3cef1deff3e59d7cd9b.svg?invert_in_darkmode&sanitize=true" align=middle width=156.07275585pt height=28.92634470000001pt/>
+<img src="/tex/9a13359788821e367c4a777fb8a3acf4.svg?invert_in_darkmode&sanitize=true" align=middle width=271.7854854pt height=28.92634470000001pt/>
 
 <img src="/tex/a7d203411fd149b4d767d7184e2f1bc1.svg?invert_in_darkmode&sanitize=true" align=middle width=367.407678pt height=33.20539859999999pt/>
 
