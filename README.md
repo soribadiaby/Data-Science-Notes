@@ -19,4 +19,4 @@ example with a regression problem
 
 chain rule
 
-<img src="/tex/b049ce7e351ef0821745fc569bc8bb5d.svg?invert_in_darkmode&sanitize=true" align=middle width=140.00549474999997pt height=30.648287999999997pt/>
+<p align="center"><img src="/tex/48fc614a4e54ff853ca03be84c45c413.svg?invert_in_darkmode&sanitize=true" align=middle width=156.34841145pt height=37.0084374pt/></p>
