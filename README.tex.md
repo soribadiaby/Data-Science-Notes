@@ -19,7 +19,7 @@ $$\boxed{C = MSE = \frac{1}{n}\sum_{i=1}^{n} (y_i - \hat{y_i})^2}$$
 
 chain rule
 
-$$\frac{\partial C}{\partial \omega_i} = \frac{\partial C}{\partial \hat{y}} * \frac{\partial \hat{y}}{\partial z} * \frac{\partial z}{\partial \omega_i}$$
+$$\boxed{\frac{\partial C}{\partial \omega_i} = \frac{\partial C}{\partial \hat{y}} * \frac{\partial \hat{y}}{\partial z} * \frac{\partial z}{\partial \omega_i}}$$
 
 $\frac{\partial C}{\partial \hat{y}} = \frac{2}{n}\sum_{i=1}^{n} (y_i - \hat{y_i}) = \frac{2}{n}sum(y - \hat{y})$
 
@@ -35,14 +35,14 @@ $\frac{\partial z}{\partial b} = \frac{\partial}{\partial b}\sum_{i=1}^{n} (x_i 
 
 finally :
 
-$$\frac{\partial C}{\partial \omega_i} = \frac{2}{n} * sum(y - \hat{y}) * \sigma(z) * (1 - \sigma(z)) * x_i$$
-$$\frac{\partial C}{\partial b} = \frac{2}{n} * sum(y - \hat{y}) * \sigma(z) * (1 - \sigma(z))$$ 
+$$\boxed{\frac{\partial C}{\partial \omega_i} = \frac{2}{n} * sum(y - \hat{y}) * \sigma(z) * (1 - \sigma(z)) * x_i}$$
+$$\boxed{\frac{\partial C}{\partial b} = \frac{2}{n} * sum(y - \hat{y}) * \sigma(z) * (1 - \sigma(z))}$$ 
 
 ### Optimization : Gradient Descent
 
 Given the learning rate $\eta$ :
 
-$$\omega_i = \omega_i - \eta * \frac{\partial C}{\partial \omega_i}$$
-$$b = b - \eta * \frac{\partial C}{\partial b}$$
+$$\boxed{\omega_i = \omega_i - \eta * \frac{\partial C}{\partial \omega_i}}$$
+$$\boxed{b = b - \eta * \frac{\partial C}{\partial b}}$$
 
 we update this way in order to decrease the cost
