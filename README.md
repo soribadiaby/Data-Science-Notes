@@ -3,4 +3,4 @@ Notes about Data Science, Machine Learning, Deep Learning &amp; Artificial Intel
 
 ## Deep Learning : Basics
 
-$\sum$
+$w + x$
