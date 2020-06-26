@@ -38,4 +38,9 @@ finally :
 $$\frac{\partial C}{\partial \omega_i} = \frac{2}{n} * sum(y - \hat{y}) * \sigma(z) * (1 - \sigma(z)) * x_i$$
 $$\frac{\partial C}{\partial b} = \frac{2}{n} * sum(y - \hat{y}) * \sigma(z) * (1 - \sigma(z))$$ 
 
-### Updating the weights with a learning rate $\large\eta$
+### Updating the weights
+
+Given the learning rate $\eta$ :
+
+$$\omega_i = \omega_i - \eta * \frac{\partial C}{\partial \omega_i}$$
+$$b = b - \eta * \frac{\partial C}{\partial b}$$
