@@ -31,9 +31,11 @@ $\frac{\partial \hat{y}}{\partial z} = \frac{1}{1 + exp(-z)} * (1 - \frac{1}{1 +
 
 $\frac{\partial z}{\partial \omega_i} = \frac{\partial}{\partial \omega_i}\sum_{i=1}^{n} (x_i * w_i + b) = x_i$
 
+$\frac{\partial z}{\partial b} = \frac{\partial}{\partial b}\sum_{i=1}^{n} (x_i * w_i + b) = 1$
+
 finally :
 
 $$\frac{\partial C}{\partial \omega_i} = \frac{2}{n} * sum(y - \hat{y}) * \sigma(z) * (1 - \sigma(z)) * x_i$$
-$$\frac{\partial C}{\partial b} = \frac{2}{n} * sum(y - \hat{y}) * \sigma(z) * (1 - \sigma(z))$$ (the last derivative equals to 1 for the bias)
+$$\frac{\partial C}{\partial b} = \frac{2}{n} * sum(y - \hat{y}) * \sigma(z) * (1 - \sigma(z))$$ 
 
 
