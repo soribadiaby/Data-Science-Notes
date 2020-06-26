@@ -23,6 +23,7 @@ chain rule
 
 <img src="/tex/62ff6c396880f3cef1deff3e59d7cd9b.svg?invert_in_darkmode&sanitize=true" align=middle width=156.07275585pt height=28.92634470000001pt/>
 
-<img src="/tex/1f1b154e002f782d225c51eba540bad5.svg?invert_in_darkmode&sanitize=true" align=middle width=700.2741042pt height=53.2550469pt/>
+<img src="/tex/a7d203411fd149b4d767d7184e2f1bc1.svg?invert_in_darkmode&sanitize=true" align=middle width=367.407678pt height=33.20539859999999pt/>
+<img src="/tex/8629d42cbb58b825550407d387069ca3.svg?invert_in_darkmode&sanitize=true" align=middle width=351.4970019pt height=27.77565449999998pt/>
 
  <img src="/tex/5e6ee175f78b83a39ac923f1c4a8c3d9.svg?invert_in_darkmode&sanitize=true" align=middle width=236.00524860000002pt height=28.92634470000001pt/>
