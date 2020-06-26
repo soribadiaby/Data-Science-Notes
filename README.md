@@ -15,8 +15,13 @@ Notes about Data Science, Machine Learning, Deep Learning &amp; Artificial Intel
 
 example with a regression problem 
 
-<img src="/tex/d5d2372b20847e319f3e55f21349b03d.svg?invert_in_darkmode&sanitize=true" align=middle width=219.38202824999996pt height=27.77565449999998pt/>
+<p align="center"><img src="/tex/a79264a08e0f75f60941d0bca2fa8891.svg?invert_in_darkmode&sanitize=true" align=middle width=205.39886564999998pt height=44.89738935pt/></p>
 
 chain rule
 
 <p align="center"><img src="/tex/48fc614a4e54ff853ca03be84c45c413.svg?invert_in_darkmode&sanitize=true" align=middle width=156.34841145pt height=37.0084374pt/></p>
+
+<img src="/tex/160309a3f191bf55c902bb7837f721bb.svg?invert_in_darkmode&sanitize=true" align=middle width=145.20509024999998pt height=28.92634470000001pt/>
+
+<img src="/tex/d57a4841f943c59941f434a8b6b658ba.svg?invert_in_darkmode&sanitize=true" align=middle width=271.5232476pt height=33.20539859999999pt/>
+
