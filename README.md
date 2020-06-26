@@ -3,4 +3,4 @@ Notes about Data Science, Machine Learning, Deep Learning &amp; Artificial Intel
 
 ## Deep Learning : Basics
 
-<img src="/tex/7307ebaf4dd38a3828d7542bd2088b29.svg?invert_in_darkmode&sanitize=true" align=middle width=24.783136949999992pt height=14.15524440000002pt/>
+<img src="/tex/e5fad41b92d4c846849449482640788c.svg?invert_in_darkmode&sanitize=true" align=middle width=315.12304064999995pt height=19.1781018pt/>
