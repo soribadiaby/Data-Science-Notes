@@ -19,7 +19,7 @@ example with a regression problem
 
 chain rule
 
-<p align="center"><img src="/tex/48fc614a4e54ff853ca03be84c45c413.svg?invert_in_darkmode&sanitize=true" align=middle width=156.34841145pt height=37.0084374pt/></p>
+<p align="center"><img src="/tex/68b23df92af2a0aa8a642ae5a7904994.svg?invert_in_darkmode&sanitize=true" align=middle width=171.4716498pt height=48.186512549999996pt/></p>
 
 <img src="/tex/9a13359788821e367c4a777fb8a3acf4.svg?invert_in_darkmode&sanitize=true" align=middle width=271.7854854pt height=28.92634470000001pt/>
 
@@ -35,14 +35,14 @@ so :
 
 finally :
 
-<p align="center"><img src="/tex/69204fd48bc446121a9f256760ee8c59.svg?invert_in_darkmode&sanitize=true" align=middle width=324.2849511pt height=36.2778141pt/></p>
-<p align="center"><img src="/tex/72daf9f5a6de72c6e93734bed17d48ba.svg?invert_in_darkmode&sanitize=true" align=middle width=291.93382845pt height=33.81208709999999pt/></p> 
+<p align="center"><img src="/tex/a2300e4f8d4c3f114cf794720a067eba.svg?invert_in_darkmode&sanitize=true" align=middle width=338.25735405pt height=47.45589585pt/></p>
+<p align="center"><img src="/tex/5153ca566c3930e7ab22306f72854127.svg?invert_in_darkmode&sanitize=true" align=middle width=305.0843631pt height=44.990167199999995pt/></p> 
 
 ### Optimization : Gradient Descent
 
 Given the learning rate <img src="/tex/1d0496971a2775f4887d1df25cea4f7e.svg?invert_in_darkmode&sanitize=true" align=middle width=8.751954749999989pt height=14.15524440000002pt/> :
 
-<p align="center"><img src="/tex/c7bb2275d4ec8acc33d33bcb6c98bc38.svg?invert_in_darkmode&sanitize=true" align=middle width=125.01348749999998pt height=36.2778141pt/></p>
-<p align="center"><img src="/tex/a500e52b15c74dd64776debf128cc331.svg?invert_in_darkmode&sanitize=true" align=middle width=104.93296604999999pt height=33.81208709999999pt/></p>
+<p align="center"><img src="/tex/b8805f112b549d100d5bc2e77b9c1ea8.svg?invert_in_darkmode&sanitize=true" align=middle width=138.16406174999997pt height=47.45589585pt/></p>
+<p align="center"><img src="/tex/34c1fbd1c7597990bc115830e2da1d1b.svg?invert_in_darkmode&sanitize=true" align=middle width=118.08353865pt height=44.990167199999995pt/></p>
 
 we update this way in order to decrease the cost
