@@ -15,7 +15,7 @@ $\hat{y} = \sigma(z) = \frac{1}{1 + \exp(-z)}$
 
 example with a regression problem 
 
-$$\fbox{C = MSE = \frac{1}{n}\sum_{i=1}^{n} (y_i - \hat{y_i})^2}$$
+$$C = MSE = \frac{1}{n}\sum_{i=1}^{n} (y_i - \hat{y_i})^2$$
 
 chain rule
 
@@ -34,3 +34,6 @@ $\frac{\partial z}{\partial \omega_i} = \frac{\partial}{\partial \omega_i}\sum_{
 finally :
 
 $$\frac{\partial C}{\partial \omega_i} = \frac{2}{n} * sum(y - \hat{y}) * \sigma(z) * (1 - \sigma(z)) * x_i$$
+$$\frac{\partial C}{\partial b} = \frac{2}{n} * sum(y - \hat{y}) * \sigma(z) * (1 - \sigma(z))$$ (the last derivative equals to 1 for the bias)
+
+
