@@ -15,7 +15,7 @@ Notes about Data Science, Machine Learning, Deep Learning &amp; Artificial Intel
 
 example with a regression problem 
 
-<p align="center"><img src="/tex/2f0861a8cdf6f4b6f9e0d59b5cbe5110.svg?invert_in_darkmode&sanitize=true" align=middle width=0.0pt height=0.0pt/></p>
+<p align="center"><img src="/tex/a79264a08e0f75f60941d0bca2fa8891.svg?invert_in_darkmode&sanitize=true" align=middle width=205.39886564999998pt height=44.89738935pt/></p>
 
 chain rule
 
@@ -34,3 +34,6 @@ so :
 finally :
 
 <p align="center"><img src="/tex/69204fd48bc446121a9f256760ee8c59.svg?invert_in_darkmode&sanitize=true" align=middle width=324.2849511pt height=36.2778141pt/></p>
+<p align="center"><img src="/tex/72daf9f5a6de72c6e93734bed17d48ba.svg?invert_in_darkmode&sanitize=true" align=middle width=291.93382845pt height=33.81208709999999pt/></p> (the last derivative equals to 1 for the bias)
+
+
