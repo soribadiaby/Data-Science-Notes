@@ -31,9 +31,11 @@ so :
 
 <img src="/tex/5e6ee175f78b83a39ac923f1c4a8c3d9.svg?invert_in_darkmode&sanitize=true" align=middle width=236.00524860000002pt height=28.92634470000001pt/>
 
+<img src="/tex/98324c53b34b9b637cc14608d5965a3c.svg?invert_in_darkmode&sanitize=true" align=middle width=215.73438314999999pt height=28.92634470000001pt/>
+
 finally :
 
 <p align="center"><img src="/tex/69204fd48bc446121a9f256760ee8c59.svg?invert_in_darkmode&sanitize=true" align=middle width=324.2849511pt height=36.2778141pt/></p>
-<p align="center"><img src="/tex/72daf9f5a6de72c6e93734bed17d48ba.svg?invert_in_darkmode&sanitize=true" align=middle width=291.93382845pt height=33.81208709999999pt/></p> (the last derivative equals to 1 for the bias)
+<p align="center"><img src="/tex/72daf9f5a6de72c6e93734bed17d48ba.svg?invert_in_darkmode&sanitize=true" align=middle width=291.93382845pt height=33.81208709999999pt/></p> 
 
 
