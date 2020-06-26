@@ -19,4 +19,4 @@ $C = MSE = \frac{1}{n}\sum_{i=1}^{n} (y_i - \hat{y_i})^2$
 
 chain rule
 
-$\frac{\partial C}{\partial \omega_i} = \frac{\partial C}{\partial \hat{y}} * \frac{\partial \hat{y}}{\partial z} * \frac{\partial z}{\partial \omega_i}$
+$$\frac{\partial C}{\partial \omega_i} = \frac{\partial C}{\partial \hat{y}} * \frac{\partial \hat{y}}{\partial z} * \frac{\partial z}{\partial \omega_i}$$
