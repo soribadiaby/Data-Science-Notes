@@ -23,5 +23,5 @@ chain rule
 
 <img src="/tex/160309a3f191bf55c902bb7837f721bb.svg?invert_in_darkmode&sanitize=true" align=middle width=145.20509024999998pt height=28.92634470000001pt/>
 
-<img src="/tex/d57a4841f943c59941f434a8b6b658ba.svg?invert_in_darkmode&sanitize=true" align=middle width=271.5232476pt height=33.20539859999999pt/>
+<img src="/tex/bb478b803b296e2c38db83465f84b645.svg?invert_in_darkmode&sanitize=true" align=middle width=284.35485539999996pt height=30.648287999999997pt/>
 
