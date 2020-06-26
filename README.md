@@ -3,4 +3,4 @@ Notes about Data Science, Machine Learning, Deep Learning &amp; Artificial Intel
 
 ## Deep Learning : Basics
 
-$\sum$
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
