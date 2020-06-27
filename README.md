@@ -35,7 +35,7 @@ so :
 
 finally :
 
-<p align="center"><img src="/tex/b0e3e6eef25b55bd1a0b91cf4ca77947.svg?invert_in_darkmode&sanitize=true" align=middle width=342.84876119999996pt height=47.45589585pt/></p>
+<p align="center"><img src="/tex/a2300e4f8d4c3f114cf794720a067eba.svg?invert_in_darkmode&sanitize=true" align=middle width=338.25735405pt height=47.45589585pt/></p>
 <p align="center"><img src="/tex/5153ca566c3930e7ab22306f72854127.svg?invert_in_darkmode&sanitize=true" align=middle width=305.0843631pt height=44.990167199999995pt/></p> 
 
 ### Optimization : Gradient Descent
