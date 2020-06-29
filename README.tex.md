@@ -11,6 +11,9 @@ $z = x.\omega + b$
 
 $\hat{y} = \sigma(z) = \frac{1}{1 + \exp(-z)}$
 
+
+the higher the bias, the easier the neuron will activate
+
 ### Backpropagation (with a Perceptron)
 
 example with a regression problem 
