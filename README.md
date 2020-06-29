@@ -11,6 +11,9 @@ Notes about Data Science, Machine Learning, Deep Learning &amp; Artificial Intel
 
 <img src="/tex/5d7a33a5d7c8478a30a4137dcd4725b7.svg?invert_in_darkmode&sanitize=true" align=middle width=149.54884065pt height=27.77565449999998pt/>
 
+
+the higher the bias, the easier the neuron will activate
+
 ### Backpropagation (with a Perceptron)
 
 example with a regression problem 
